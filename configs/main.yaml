@@ -6,3 +6,7 @@ server:
     read: 15
     write: 10
     idle: 5
+redis:
+  addr: 127.0.0.1:6379
+  password: ""
+  db: 0
