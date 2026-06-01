@@ -5,7 +5,6 @@ import (
 	"crypto/rand"
 	"encoding/hex"
 	"time"
-
 	"github.com/redis/go-redis/v9"
 )
 

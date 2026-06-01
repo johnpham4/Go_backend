@@ -1,4 +1,4 @@
-Lesson 02: Caching & Redis
+Caching & Redis
 - Viết một web server sử dụng gin go + redis với
 1. 1 API /login, để tạo session cho mỗi người đăng nhập, dùng redis để lưu session id, user name ấy
 2. 1 API /ping chỉ cho phép 1 người được gọi tại một thời điểm (với sleep ở bên trong api đó trong 5s)
